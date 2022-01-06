@@ -1,0 +1,32 @@
+<div class='body'>
+    <div class='hand'>
+ <div class='na'>.$exp.</div>
+ <div class='nat'>
+     <div class='leg'>
+      
+
+<!-- Button trigger modal -->
+
+<input type='image' src='logo.png' class='btn btn-primary' data-bs-toggle='modal' data-bs-target='#exampleModal'>
+ <div class='na'>name</div>
+<!-- Modal -->
+<div class='modal fade' id='exampleModal' tabindex='-1' aria-labelledby='exampleModalLabel' aria-hidden='true'>
+  <div class='modal-dialog'>
+    <div class='modal-content'>
+      <div class='modal-body'>
+        <video src='https://drive.google.com/u/0/uc?id=12R5lBQnr_T36paP9XVZEHCvfWedxuM9W&export=download' height='100%' width='100%' preload='metadata' controls=''></video>
+      </div>
+      <span>Name</span>
+      <div class=' desc'>
+       description
+      </div>
+      <form action='' method='get' accept-charset='utf-8'>
+   
+        <button type='submit' class='btn btn-primary'>Save changes</button>
+    
+      </form>  </div>
+    </div>
+  </div>
+</div>     </div></div>
+    </div>
+   </div>
